@@ -1,0 +1,31 @@
+寵物小精靈角色列表 【必須使用寵物小精靈狼人資訊助手@PkmWolfInfobot】
+
+/aboutMagikarp - 村民 👱： 鯉魚王
+/aboutTeamRocket - 狼人 🐺：火箭兵團
+/aboutGrimer - 醉酒佬 🍻：爛泥怪
+/aboutAlakazam - 先知🔮：富迪
+/aboutJynx - 妓女💋：紅唇娃
+/aboutMeowth - 被詛咒嘅人😾：喵喵怪
+/aboutPersian - 叛徒（25仔）🖕：高竇貓
+/aboutBlissey - 守護天使👼：幸福蛋
+/aboutBlastoise - 槍手🔫：水箭龜
+/aboutClefairy - 皮匠👺：皮皮
+/aboutSlowpoke - 白痴仔🃏：小呆獸
+/aboutOmanyte - 邪教會員⚰：菊石獸
+/aboutKabuto - 邪教殺手✨：萬年蟲
+/aboutWobbuffet - 野仔👶：果然翁
+/aboutPatrat - 偵探🕵：探探鼠
+/aboutPikachu - 共濟會👷：比卡超
+/aboutDitto - 分身🎭：百變怪
+/aboutSylveon - 丘比特🏹：仙子伊貝
+/aboutCharmander - 獵人🎯：小火龍
+/aboutGengar - 連環殺手🔪:耿鬼
+/aboutGyarados - 村長🎖:鯉魚龍
+/aboutPorygon - 狼人巫師🔮:立方獸
+/aboutManaphy - 王子👑：蒼海的王子 瑪納霏
+/aboutKadabra - 學徒先知🙇：尤基納
+/aboutNatu - 旁觀者👁:天然雀
+/aboutSpinda - 傻佬🤕:晃晃班
+/aboutAegislash - 鐵匠⚒: 堅盾劍怪
+/aboutSakaki - 狼人首領⚡️：沙加老大
+/aboutChimecho - 風鈴鈴🐶：幼狼
