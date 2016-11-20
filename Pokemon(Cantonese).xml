@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--
     ==UPDATE LOG==
-    LAST UPDATE 17/11/2016 by @bluebear119
+    LAST UPDATE 20/11/2016 by @bluebear119、
+    20/11  :Update Role Info Cultist Hunter，added cultist convert wolf.
     17/11 ：Update Role Info for Traitor
     15/11 : Modify Drunk Description.
     14/11 : Update Event Details.
@@ -232,7 +233,7 @@
     <value >你既小精靈係螺旋神教嘅核心人物菊石獸👤，每一晚佢會聽你既指令對一個人既小精靈使出化石光線，令其他人變成菊石獸，去追隨你成為螺旋神教教徒。當你成功將所有人既小精靈變菊石獸，比賽冠軍就係你地架啦。</value>
   </string>
   <string key="RoleInfoCultistHunter" >
-    <value >你嘅小精靈係嚟自遠古嘅萬年蟲💂，你妒忌點解菊石獸可以封神成教，而你就被人繼續留喺山洞等風化，所以你同萬年蟲決心殺盡螺旋神教教眾。</value>
+    <value >你嘅小精靈係嚟自遠古嘅萬年蟲💂，你妒忌點解菊石獸可以封神成教，而你嘅小精靈就被人繼續留喺山洞等風化，所以你同萬年蟲決心殺盡螺旋神教教眾。</value>
   </string>
   <string key="LynchTime" >
     <!-- 0 - number of seconds -->
@@ -304,7 +305,7 @@
   </string>
   <string key="HunterKilledCultist">
     <!-- 0 - victim name -->
-    <value>萬年蟲決定去搵【{0}】既小精靈，他發現到【{0}】既小精靈竟然正在跪拜神奇海縲！\n萬年蟲一怒之下，使用原始之力，殲滅了呢隻菊石邪魔！</value>
+    <value>你嘅萬年蟲決定去搵【{0}】既小精靈，他發現到【{0}】既小精靈竟然正在跪拜神奇海縲！\n萬年蟲一怒之下，使用原始之力，殲滅了呢隻菊石邪魔！</value>
   </string>
   <string key="NoAttack" >
     <value >真係好彩啦，尋晚冇精靈被抓走。</value>
@@ -422,7 +423,7 @@
   <string key="CultHunterKilledCultVisit">
     <!-- 0 - Youngest Cultist's name -->
     <!-- 1 - Number of cultists left -->
-    <value>【{0}】嘅菊石獸來將你變做菊石獸，可惜被萬年蟲用原始之力殺害了，你嘅螺旋教會還剩下【{1}】個人!</value>
+    <value>【{0}】嘅菊石獸來將你變做菊石獸，可惜被你嘅萬年蟲用原始之力殺害了，你要消滅嘅螺旋教會還剩下【{1}】個人!</value>
   </string>
   <string key="CultConvertYou">
     <value>有菊石獸用化石光線令你變成菊石獸。你唔再係之前嘅小精靈，不過你會成為擁有螺旋神力嘅菊石獸教徒，可以在晚上與其他菊石獸商量，決定下次對邊隻小精靈使用化石光線令佢都變成菊石獸。</value>
@@ -445,15 +446,15 @@
   </string>
   <string key="HunterVisitDead">
     <!-- 0 - target name -->
-    <value>萬年蟲決定去尋找【{0}】嘅小精靈,睇下佢係咪菊石獸扮出嚟，佢隻精靈已經沒冇哂戰鬥力，萬年蟲只好返屋企訓教。</value>
+    <value>你嘅萬年蟲決定去尋找【{0}】嘅小精靈,睇下佢係咪菊石獸扮出嚟，佢隻精靈已經沒冇哂戰鬥力，萬年蟲只好返屋企訓教。</value>
   </string>
   <string key="HunterFindCultist">
     <!-- 0 - target name -->
-    <value>萬年蟲決定去尋找【{0}】嘅小精靈，他發現到【{0}】竟然正在跪拜神奇海縲！萬年蟲一怒之下 ，使用原始之力，殲滅了【{0}】呢隻菊石邪魔！</value>
+    <value>你嘅萬年蟲決定去尋找【{0}】嘅小精靈，他發現到【{0}】竟然正在跪拜神奇海縲！萬年蟲一怒之下 ，使用原始之力，殲滅了【{0}】呢隻菊石邪魔！</value>
   </string>
   <!-- 0 - target name -->
   <string key="HunterFailedToFind">
-    <value>萬年蟲出發去【{0}】嘅屋企，發現到只係一隻純真可愛嘅小精靈，仲未受到菊石邪教污染，觀察多一陣之後，你就帶埋萬年蟲安心咁返屋企。</value>
+    <value>你嘅萬年蟲出發去【{0}】嘅屋企，發現到只係一隻純真可愛嘅小精靈，仲未受到菊石邪教污染，觀察多一陣之後，你就帶埋萬年蟲安心咁返屋企。</value>
   </string>
   <string key="WildChildToWolves">
     <!-- 0 - Werechild's name -->
@@ -1303,5 +1304,9 @@
   </string>
   <string key="TannerTeamEnd">
     <value>皮皮</value>
+  </string>
+  <string key="CultConvertWolf">
+    <value>螺旋教嘅教徒派 【{0}】 對 【{1}】發射化石光綫, 但係 【{0}】嘅慘叫聲清楚咁傳入螺旋教教徒嘅耳邊，佢哋明白到呢陣咁淒慘嘅叫聲代表【{0}】 已經俾火箭兵團收服咗啦.
+    </value>
   </string>
 </strings>
