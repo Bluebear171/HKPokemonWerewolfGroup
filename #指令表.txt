@@ -1,36 +1,89 @@
 #指令表
-#daidai 點解小呆呆仲未死？
-#sinchan FB大神小新來啦！
-#godieAnson Anson不能留 請踴躍FB/FV佢👋👋
-#adminfake Admin 你呃人！
-#GGConan 其實我就系名偵探小新！
-#admin4 請先殺死亂殺Admin的訓練員。
-#rudedyingmessage 遺言必須留 唔留聽口臭 開名正on 9😂😂
-#charmander 如果我小火龍進化做噴火龍，我一定會燒死哂你哋班衰人
-#admin2 邊個殺admin？想死丫？😡
-#FB2 制都冇得禁我算啦 仲要FB我🙄
-#DK 仇殺任何人只限這一場，所一下RD，不要有同樣人被FB/FV出現。
-#wcubic 連死兩隻立方獸，百變怪有無copy立方獸？(笑)
-#whycantI 我都係超(低)能系喎！
-#groupmembers 請友善對代本群訓練員
-#eevee 伊貝永遠係Anson既💕💕😍
-#Admin 本群admin都是好人，不可無殺是也
-#admin3 請友善對代本群admin😢
-#pikachu pika pikachu
-#Admin2 紅唇蛙，仙子伊貝，火箭兵團同耿鬼，你可以俾我安睡第一晚嗎？
-#Magikarp 可以俾400粒糖我？
-#dieslient 死者不會說話
-#slowpoke 保護小呆呆，人人有責😍
-#killnew 是誰隊倒新人，同我企出黎！
-#adminanson 點解Anson過到first rd？點解冇人fbfv死佢？
-#GG GG都升級變小新啦！🙈🙈
-#FollowMe 唔好跟我
-#JK 已經查明身份，可以殺，可以FB，可以FV。
-#shieldused 睇下邊個開咗盾
-#FP 都講你Face Problem 啊XD 
-#AnsonFat 我係肥仔但係我唔想俾人bully😭😭
-#yfbmeagain 唉...你個名又長又7 講出黎都嫌口臭 你都係死一死啦👋
-#adminall 我們Admin們又再召集啦😘😘😘
-#Katherine 本群最靚女又最任性的女admin🙈（呢個群跟本得我一個女admin）不可欺負，不可fb，不可fv🙈🙈🙈
-#fm follow ME 跟我投！
-#admin 本群admin都是好人，不可無殺是也
+
+#29Kri	人地獨角獸，我係29隻角的稀有刺蝟，殺我拎隻角插死你😂
+#3Dmon	立方教授，你又無得做皮嗱？我有喎！(第N次啦)
+#Admin	Admin們唔好死丫
+#admin	本群admin都是好人，不可無殺是也
+#Admin2	D admin冇個好人，除了Katherine
+#admin2	邊個殺admin？想死丫？😡
+#admin3	 紅唇蛙，仙子伊貝，火箭兵團同耿鬼，你可以俾我安睡第一晚嗎？
+#admin4	請先殺死亂殺Admin的訓練員
+#adminall	我們Admin們又再召集啦😘😘😘
+#adminanson	點解Anson過到first rd？點解冇人fbfv死佢？
+#adminfake	Admin 你呃人！
+#ak	Kayu is my only wife!😘😘😘😍😍
+#AnsonFat	我係肥仔但係我唔想俾人bully😭😭
+#AnsonFat2	唔好見我肥就以為我好恰🙈再FB我就ban哂你地😂
+#AnsonKayu	邊個夠膽殺我媽子 我Anson絕對唔會放過佢😤😤💕
+#AnsonKayu2	請大家唔好FB\FV Anson/Kayu 我地要互殺😂
+#bang	叫你唔好warn你就去ban 都話一家人咯 你都係一槍打死自己算啦 💥 💥
+#Ben	大家都是好同學
+#chaos	現場混入一片9v的情況，請大家保持隊形
+#charmander	如果我小火龍進化做噴火龍，我一定會燒死哂你哋班衰人
+#daidai	點解小呆呆仲未死？
+#df	做咩離隊，你可以唔可以合群D
+#dieslient	死者不會說話
+#disguise	你咪扮曬野啦, 我已經識穿你既一言一行, 哈哈哈, 你已經呃唔到我架啦
+#DK	仇殺任何人只限這一場，所一下RD，不要有同樣人被FB/FV出現。
+#eathw	功課咩呢Ga,食唔食得ga
+#eevee	伊貝永遠係Anson既💕💕😍
+#FB2	制都冇得禁我算啦 仲要FB我🙄
+#fm	follow ME 跟我投！
+#FollowMe	唔好跟我
+#forgiveme	原諒我🙇🙇
+#FP	都講你Face Problem 啊XD 
+#GG	GG都升級變小新啦！🙈🙈
+#GGConan	其實我就系名偵探小新！
+#godieAnson	Anson不能留 請踴躍FB/FV佢👋👋
+#groupmembers	請友善對代本群訓練員
+#heiheiman	我就係鍾意9v， 你吹啊
+#HongKong	公告：本群係香港的pokemon狼人group，由於我們都是因為尊重香港文化而決定建立呢個grorp，文字中有好多香港特色，希望大家可以尊重返香港的文化~我們用的係廣東話、繁體字
+#Huiman	kayu點會係娘娘？🙄明明就係一隻豬🙈我先係真娘娘👋
+#hwtg	好似味道唔差？😂
+#iamnew	唔好嘈，我最新
+#ida	花哥哥幾時包養我啊😍😍😍😍😍💑💑
+#ida2	如果ida是神，這個Pokemon世界就沒有神了。
+#im	 唔好理我，我係沒人要的晃晃班😭😭😭😭
+#JK	已經查明身份，可以殺，可以FB，可以FV。
+#Katherine	本群最靚女又最任性的女admin🙈（呢個群跟本得我一個女admin）不可欺負，不可fb，不可fv🙈🙈🙈
+#Katherine2	殺我？祝你到11月30日都係得28隻😡12月1日即出29隻俾你
+#kayu	有邊個想入Kayu教
+#kayu2	我只愛自己大家想多了。
+#kayu4	可唔可以有神隊友😒😒😒
+#kayusad	我既kayu好唔開心 大家唔好係乜都殺佢唔該哂👋(p.s.明係私心 by Anson🙈)
+#kayuunotgirlgod	夠啦唔好再話我係娘娘啦 我係Anson個娘親😂👋
+#kayuuu	姐姐我係娘娘 但我為人低調 絕對唔會同你班庶民講💕😏
+#killnew	是誰隊倒新人，同我企出黎！
+#Kri	我係 the queen of 抽水command
+#kriheart	有咗尤基納, 我覺得我人生充滿希望, 我覺得自己真係好好好幸福😍😍😍❤️
+#kriwater	想玩抽水command 初體驗mou?
+#leungleung	參見娘娘
+#luck	點解我們沒有運氣！！！😁😁😁😁
+#Magikarp	可以俾400粒糖我？
+#nohwpls	我好唔想做功課啊！😢😭
+#nosorsiuowo	大家放條生路俾佢啦 雖然佢又毒又寸 但係佢都想有得認真玩落去 短時間內唔好再FBFV佢啦😂😂
+#Oddy	我都叫你唔好四肢發達，頭腦簡單，依加字都唔識多隻投錯票
+#panda	國寶要保護ga😡
+#pikachu	pika pikachu
+#rudedyingmessage	遺言必須留 唔留聽口臭 開名正on 9😂😂
+#sad	有咩慘得過被人FB?就係周圍都係仇家然後每次FB😂🙈
+#shieldused	睇下邊個開咗盾
+#sinchan	FB大神小新來啦！
+#siutoktok	請大家善待本群小毒毒。
+#slowpoke	保護小呆呆，人人有責😍
+#Sorsiuowo	其實我真係一D都唔毒，大家要好好善待我。
+#sorsiuowo	我一日半就搞29隻，你哋仲未ok？好明顯你哋唔夠我毒！
+#sorsiuowo2	你真係覺得有人毒得過你？
+#sorsiuowo3	如果我係小毒毒，咁冇人係毒。其實我呢d唔叫毒，叫生活。
+#target	目標35人場！
+#tok	比毒毒大賽來la😂
+#tree	有棵咁既樹(有D咁既事）??
+#trustme	你只係小呆呆
+#votehim	唔該同我投死亂投的傻瓜！
+#warm	Admin都係一家人唔好warn啦 溫暖啲啦😍💕
+#wcubic	其實我就系名偵探小新！
+#whycantI	我都係超(低)能系喎！
+#whyme	點解係我？
+#yank	你呢條友竟然殺我，同我奄佢😏
+#yc	我鍾意姦人，其實我隱藏身份是FBI。
+#yfbmeagain	唉...你個名又長又7 講出黎都嫌口臭 你都係死一死啦👋
