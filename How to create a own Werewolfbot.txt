@@ -1,0 +1,11 @@
+How to create a own Werewolfbot
+1. Use Bot Father to get your API token.
+2. In regedit paste the API token in ProductionAPI string with the path HKLM\SOFTWARE.
+3. Run Sql script,it will create werewolf database
+4. Put ur telegram ID in dbo.Admin.
+5. Open Werewolf Telegram Solution file in Visual Studio.
+6. Create the Settings file and name it as internal.settings.
+7. Create an Internal.settings file in Database project.
+8. 
+
+metadata=res://*/WerewolfModel.csdl|res://*/WerewolfModel.ssdl|res://*/WerewolfModel.msl;provider=System.Data.SqlClient;provider connection string="data source=Asus\bluebear119;initial catalog=werewolf;Integrated Security=SSPI;MultipleActiveResultSets=True;App=EntityFramework"
