@@ -33,6 +33,7 @@ Group Butler是一個能幫助Admin更有效管理群組的Bot。它的功能如
 /warnmax [number] = 設定一個人在被Ban/Kicked之前可以被警告的次數。
 /warnmax media [number] = 設定一個人在被Ban/Kicked之前可以被警告的次數 （媒體）
 /user [user name] = 查看用戶被警告的次數
+/sw [by reply] =警告使用者(在沒通知使用者下警告使用者)
 
 2.5 封鎖之槌
 /kick [by reply|username|id|text mention]：踢人出群。
