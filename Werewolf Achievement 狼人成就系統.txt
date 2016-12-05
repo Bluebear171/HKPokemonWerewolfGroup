@@ -1,0 +1,134 @@
+Werewolf Achievement 狼人成就系統。
+呢個成就系統係用來查詢你可以在狼人遊戲解鎖嘅成就。
+
+Welcome To Hell
+玩一局狼人
+
+Welcome to the Asylum
+玩一局混亂版狼人
+
+Alzheimer's Patient 
+玩一局失憶版狼人
+
+Explorer
+至少在10個不同的組別玩2次狼人。
+
+Enochlophobia
+玩一局35人場
+
+Introvert 
+玩一局5人場
+
+Naughty!
+用NSFW語言包來進行遊戲
+
+Dedicated
+完成100場遊戲
+
+Obsessed
+完成1000場遊戲
+
+Masochist
+皮皮勝出
+
+Inconspicious 
+在多於20人的遊戲裡面，沒有人投票你並且遊戲結束時生還。
+
+Survivalist
+生存100局
+
+Mason Brother
+成為共濟會會員並生存到最後。
+
+Hey Man,Nice Shot
+當你這個獵人死亡的時候成功殺死狼/連環殺手。
+
+Here's Johnny! 
+身為殺手殺掉50人
+
+Double Kill
+成為殺手/獵人的故事結束一份子。
+
+Should have known
+作為先知，見到旁觀者。
+
+I see a lack of Trust
+作為先知，在第一天被人投票。
+
+Change Sides Works
+在遊戲改變角色，並且勝利。
+
+So Close！
+作為皮皮得到大部分的票數。
+
+Self Loving
+身為丘比特選擇自己和別人成為情侶。
+
+Tanner OverKill
+身為皮皮，全部人都投你。
+
+Cultist Fodder 
+作為被派去傳教的人
+
+Lone Wolf
+10人以上的場合，你是唯一的狼，並且勝出。
+
+OH SHI
+在第一晚，殺死自己的愛人。
+
+Veteran
+完成500場遊戲並且可以加入@werewilfvets
+
+O HAI DER!
+同Para玩一鋪
+
+Wobble Wobble
+在10人場裡面成功以酒鬼身份勝出
+
+Promiscuous
+身為妓女，5晚以上沒有去同1人的家。
+
+Double Shifter
+連續兩次更改角色(邪教不算)
+
+Forbidden lovae 
+作為狼/村情侶勝出（村民死完）
+
+Smart Gunner
+2發子彈都打中殺手，狼或者，邪教。
+
+Even a stopped clock is Right twice a day
+白痴仔兩次看中他人身份
+
+In for the long haul
+在一場遊戲活超過1小時。
+
+Serial Samaritan 
+作為連殺，成功殺掉至少3只狼。
+
+Pack Hunter
+成為7只之一成功活著的狼。
+
+Save by the Bullet
+身為村民，狼群的數量與村民一樣，可是遊戲並沒結束，因為槍手還有子彈。
+
+Mason Brother
+成為2個以上最後生存的共濟會成員之一。
+
+I've Got Your Back
+作為守護天使成功守護他人50次
+
+The First stone
+成功在一局裡連續第一個投票。
+
+Double Vision
+在一局裡面成為2個先知的其中一個。
+
+Linguist
+在每一個語言包裡（10種語言以上），至少玩過2場狼人遊戲。
+
+Black Sheep
+連續在首三次遊戲被投票。
+
+Streetwise
+身為偵探在連續4天成功找到，狼人，連殺，以及邪教
