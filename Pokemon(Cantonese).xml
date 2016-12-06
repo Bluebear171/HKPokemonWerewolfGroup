@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--
     ==UPDATE LOG==
-    LAST UPDATE 30/11/2016 by @bluebear119
+    LAST UPDATE 6/12/2016 by @bluebear119
+    06/12  ：Add a bunch of Death String(SK,eaten)
     30/11  :Modify Role Info Sk，Starting Game Wait,Event Details
     25/11  :Modify Role Info App Seer and Seer.
     22/11  :Update Cultist convert SK.
@@ -262,7 +263,7 @@
     </string>
     <string key="DetectiveEaten" >
         <!-- 0 - victim name -->
-        <value>訓練員起身準備繼續參加擂台賽，發覺【{0}】既探探鼠竟然唔見咗，於是佢地就幫手搵啦，點知點樣都搵唔番【{0}】既探探鼠，就系咁【{0}】失去了參賽資格。</value>
+        <value>訓練員起身準備繼續參加擂台賽，發覺【{0}】既探探鼠竟然唔見咗，於是佢地就幫手搵啦，點知點樣都搵唔番【{0}】既探探鼠。不過好彩喜歡將自己身體顏色融入大自然中的變隱龍剛好目擊到探探鼠被黑心火箭兵團抓走嘅事情，所以大家先至明白事情的真相了。就系咁【{0}】失去了參賽資格。</value>
         <value >火箭兵團終於發現了【{0}】既探探鼠在鬼鬼祟祟地偵察着。\n火箭兵團就指揮手下雷鳥立即使出佢嘅絕技電池加隆砲，【{0}】既探探鼠一瞬間失去間戰鬥能力。</value>
         <value >火箭兵團終於發現了【{0}】既探探鼠在鬼鬼祟祟地偵察着。\n火箭兵團就指揮手下急凍鳥立即使出佢嘅絕技暴風雪，【{0}】既探探鼠一瞬間失去戰鬥能力。</value>
         <value >火箭兵團終於發現了【{0}】既探探鼠在鬼鬼祟祟地偵察着。\n火箭兵團就指揮手下火焰鳥立即使出佢嘅絕技熱風，【{0}】既探探鼠一瞬間失去戰鬥能力。</value>
@@ -273,7 +274,7 @@
         <value>大家一起身。發現平時守護大家嘅幸福蛋，【{0}】嘅屍體，面容扭曲咁被人掛咗係醫院個紅十字上面，睇嚟幸福蛋今次不幸地畀死神選中，所以話得罪火箭兵團唔會有好下場。</value>
         <value >火箭兵團終於發現了【{0}】既幸運蛋在阻擋他們抓人。\n火箭兵團就指揮手下雷鳥立即使出佢嘅絕技電池加隆砲，【{0}】既幸運蛋一瞬失去間戰鬥能力。</value>
         <value >火箭兵團終於發現了【{0}】既幸運蛋在阻擋他們抓人。\n火箭兵團就指揮手下急凍鳥立即使出佢嘅絕技暴風雪，【{0}】既幸運蛋一瞬間失去戰鬥能力。</value>
-        大家一起身。發現平時守護大家嘅幸福蛋，【{0}】嘅屍體，面容扭曲咁被人掛咗係醫院個紅十字上面，睇嚟幸福蛋今次不幸地畀死神選中    <value >火箭兵團終於發現了【{0}】既幸運蛋在阻擋他們抓人。\n火箭兵團就指揮三大神鳥同時出擊，使出了原始力量，【{0}】既幸運蛋一瞬間失去了戰鬥能力。</value>
+         <value >火箭兵團終於發現了【{0}】既幸運蛋在阻擋他們抓人。\n火箭兵團就指揮三大神鳥同時出擊，使出了原始力量，【{0}】既幸運蛋一瞬間失去了戰鬥能力。</value>
     </string>
     <string key="GunnerEaten" >
         <!-- 0 - victim name -->
@@ -1244,7 +1245,7 @@
         <value>【Clumsy Guy 傻佬🤕晃晃班】\n你捉到嘅嘅小精靈係同你一樣大頭蝦嘅晃晃班！佢成日都暈下暈下，搞到你為了照顧佢時都會矇下矇下，所以投票都有一半機會投錯，拾下拾下。</value>
     </string>
     <string key="AboutBlacksmith">
-        <value>【Blacksmith 鐵匠⚒堅盾劍怪】\n你持有嘅小精靈為堅盾劍怪。你嘅小精靈能使用王者之盾 ，觸發之後可以防禦一次敵方嘅攻擊(一次火箭兵團嘅攻擊，待測)， 堅盾劍怪一場比賽只可以使用一次王者之盾，之後就與一般小精靈無異。好好運用你嘅盾去生存下去吧！
+        <value>【Blacksmith 鐵匠⚒堅盾劍怪】\n你持有嘅小精靈為堅盾劍怪。你嘅小精靈能使用王者之盾 ，觸發之後可以防禦一次火箭兵團嘅攻擊， 堅盾劍怪一場比賽只可以使用一次王者之盾，之後就與一般小精靈無異。好好運用你嘅盾去生存下去吧！
         </value>
     </string>
     <string key="AboutAlphaWolf">
@@ -1310,4 +1311,62 @@
     <string key="HarlotFuckedKilledPublic">
         <value>日出了，大家喺【{1}】屋企聞到一陣令人如痴如醉嘅唇膏味，大家打開【{1}】屋企度門一睇，【{1}】嘅精靈訓咗喺地下，再行入佢間房，見到【{0}】紅唇娃面無血色咁死左喺床上！到底發生咗咩事呀呀呀呀呀呀！</value>
     </string>
+    <!--New Death Strings 05 DEC-->
+  <string key="ApprenticeSeerEaten">
+    <value>晨早流流，當訓練員陪著自己心愛既小精靈食早餐嘅時候，發現到平時用緊嘅匙羹無啦啦浮現咗不符尋常嘅裂痕，所有訓練員趕緊把全部出現裂痕嘅匙羹放在一起。經過排列後，訓練員們嚇到面青口純白，原來呢D裂痕隱藏著尤基納同火箭兵團激戰過嘅痕跡。望住裂痕，訓練員已經心裡有數，明白平時只能用二手匙羹練習預知未來嘅尤基納所屬嘅訓練員【{0}】要退出呢場賽事啦。</value>
+  </string>
+  <string key="BlacksmithKilled">
+    <value>早起的小鳥有蟲吃，早起的堅盾劍怪忙修盾。一如往常，凌晨1點是訓練員剛入睡的時刻，而堅盾劍怪卻都會起身細心檢查自己引以為傲的王者之盾。為咗能在關鍵時刻守護所有鯉魚村訓練員嘅小精靈，佢非常專注地確保王者之盾上的每個細節都完美無瑕，毫無破綻。不過這一切的希望卻被惡名昭彰嘅耿鬼破滅了。只見耿鬼運用着高超職業殺手技巧“暗步”，將自身氣息消除，無聲無色的成功在堅盾劍怪不發現的情況下使出劈瓦，把自己全身的力量聚合在手刀上，徒手劈開盾都來不及開的堅盾劍怪身上。被劈開一半的堅盾劍怪就咁無咗條命啦。【0】嘅堅盾劍怪之魂已經入咗亡靈空間，無法返回小精靈世界。</value>
+  </string>
+  <string key="CultistKilled">
+    <value>一朝早,班訓練員見到鯉魚湖岸邊有堆海螺碎片，碎片旁邊仲有很多斷掉的觸手。現場血跡斑斑，卻冇訓練員認得出是誰的傑作。剛巧路徑此地旅行的国际警察默丹憑著其豐富的破案經驗一眼就看出了【0】嘅菊石獸係慘遭最近犯下多宗小精靈謀殺案嘅耿鬼毒手。</value>
+  </string>
+  <string key="CupidKilled">
+    <value>一天光，訓練員聽到心形橋附近傳出了超高分貝的慘叫聲，就連平時叫極都唔醒嘅卡比獸都嚇到衝出屋企，去看熱鬧。黎到橋上，眾人嘅目光都被【0】嘅仙子伊貝吸引住，但被吸引嘅原因並唔係仙子伊貝優美嘅姿態。反而係仙子伊貝一雙水晶藍的眼睛變成了什麼也沒有的空洞。更慘嘅係佢頭頂和脖子上嘅觸角都被銳爪整傷到面目全非。原來係心存恨意嘅耿鬼唔鍾意見到世上有愛存在，用暗影爪毀掉了仙子伊貝想散播愛的夢想。</value>
+  </string>
+  <string key="DrunkKilled">
+    <value>天亮了，係訓練員前往比賽場地的途中見到垃圾區的垃圾竟然仲沒被清理好。垃圾傳出來的惡臭，令到訓練員們苦不堪言，紛紛走到垃圾管理中心投訴。門一開，大家睇到平時對人熱情，愛吃垃圾的爛泥怪攤屍係佢工作室地上，側邊仲有個驅之不去，揮之不散的影子。只有耿鬼才能做到令精靈的影子長時間停留在某個位置。這意味著殺死【{0}】嘅爛泥怪嘅死同耿脫離不了關係。</value>
+  </string>
+  <string key="GuardianAngelKilled">
+    <value>作為條村最重要嘅小精靈守護者-幸福蛋被人發現棄屍在小精靈中心的屋頂上。雖然佢日日夜夜努力守護大家，並常常都能將幸福帶給條村嘅小精靈，但卻沒辦法用自己的能力去自我保護。更因為如此，耿鬼才能輕易地奪走了幸福蛋的性命。訓練員【{0}】望著幸福蛋留下的蛋哀嚎著，可能在他心裡，幸福蛋就像親人般重要0。失去笑容嘅佢，也沒有心情想參與比賽了。</value>
+  </string>
+  <string key="GunnerKilled">
+    <value>天光啦，平時最容易見到，擁有神槍手之稱既水箭龜卻消失係佢訓練員【{0}】的視線範圍，取而代之是全身關節已被切除剩下的爛龜殼，同埋扭曲變形的兩門水炮。原來尋晚耿鬼費盡力氣才成功KO咗水箭龜。憤怒既耿鬼在殺死了水箭龜後仲唔滿意，係咁用各種殘忍的方式肢解水箭龜，再將其珍貴的部分賣給小精靈黑市場，才露出滿意的奸笑，張揚離去。
+</value>
+  </string>
+  <string key="MayorKilled">
+    <value>Assassination! {0} the mayor was found pinned with a knife on the table while working overnight at the mayor office! Clearly it's the serial killer exacting revenge for the asylum robbing him of years of his life!</value>
+  </string>
+  <string key="PrinceKilled">
+    <value>Bells ring across the village before the sunrise, as armed guards flood the streets investigating the disappearance of Prince {0}. No clues were discovered, but it is suspected that there is a Serial Killer on the loose...</value>
+    <value>{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade.</value>
+  </string>
+  <string key="SeerKilled">
+    <value>The villagers wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the village has lost their top brains. {0} was the Seer.</value>
+  </string>
+  <string key="SorcererEaten">
+    <value>The sound of mournful howls can be heard across the village. A mistake has been made. The wolves have killed one of their own. The Sorcerer {0} is dead.</value>
+    <value>Cries of "I'm your ally!" were heard last night. All the villagers found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the sorcerer. Hunger trumps comradeship...</value>
+  </string>
+  <string key="WildChildEaten">
+    <value>NOMNOMNOMNOM! The wolves were heard last night, eating up a tender Wild Child, {0}, leaving behind only a reduced-size skeleton! The village wondered if the wolves felt any guilt tearing apart the defenceless child.</value>
+  </string>
+  <string key="SerialKillerKilledCH"> <!--used when CH visits SK-->
+    <value>The villagers wake up in the morning, only to find the severed body parts of {0}, the Cultist Hunter, in a cart placed in full view outside the town hall. Lesson learnt: don't visit the serial killer!</value>
+    <value>The body of {0}, the Cultist Hunter, was found in the middle of town, albeit cut precisely into a hundred pieces. Checking if the Serial Killer was a cultist does not seem to be a good idea...</value>
+  </string>
+  <string key="CultConvertWolfPublic"> <!--used when Cultists convert the wolves, only if wolves stayed home-->
+    <value>While it seemed that the wolves decided to stay good for once, punishing {0}, a cultist that decided to court trouble with the wolves, proved too difficult to resist. {0}'s head was converted to a fine supper, delivered to the wolves' doorsteps!</value>
+    <value>The cult ran into unexpected trouble last night. Their newest member had the misfortune of visiting a wolf on the night the wolves decided to stay home, and the wolf found {0} quite delicious. Unfortunately for {0}, wolves have no interest in joining the new religious movement.</value>
+  </string>
+  <string key="CultConvertKillerPublic"> <!--used when Cultists convert the SK-->
+    <value>The cult thought they would have a new member in their ranks, but they were wrong! {0}, a cultist, was minced to pieces and placed at the town square in the morning! Strangely their "holy" book was found stabbed with a knife, as if a statement to show whose religion was triumphant.</value>
+    <value>Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs.</value>
+  </string>
+  <string key="GAGuardedKiller">
+    <value>It was supposed to be a night where {0} would save the village from the killers, but {0}'s halo was extinguished and wings sliced by the serial killer! Left was a note, "I could protect myself better than you can."</value>
+  </string>
+  <string key="GAGuardedWolf">
+    <value>{0} tried to guard a wolf last night. The town woke up to find only the wings of {0} hung on the church cross. Clearly the wolves had an extra meal god-sent, free-of-charge, to their homes.</value>
+  </string>
 </strings>
