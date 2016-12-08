@@ -1,0 +1,36 @@
+about - 角色詳解
+aboutus - 關於我們
+command - 全谷指令表
+extracommand - 額外指令
+achievement - 狼人成就系統
+intro - 遊戲介紹
+pkmrole - 角色對照表
+aboutmagikarp - 村民 👱： 鯉魚王
+aboutteamtocket - 狼人 🐺：火箭兵團
+aboutgrimer - 醉酒佬 🍻：爛泥怪
+aboutalakazam - 先知🔮：富迪
+aboutjynx - 妓女💋：紅唇娃
+aboutmeowth - 被詛咒嘅人😾：喵喵怪
+aboutpersian - 叛徒（25仔）🖕：高竇貓
+aboutblissey - 守護天使👼：幸福蛋
+aboutblastoise - 槍手🔫：水箭龜
+aboutblefairy - 皮匠👺：皮皮
+aboutslowpoke - 白痴仔🃏：小呆獸
+aboutomanyte - 邪教會員⚰：菊石獸
+aboutkabuto - 邪教殺手✨：萬年蟲
+aboutwobbuffet - 野仔👶：果然翁
+aboutpatrat - 偵探🕵：探探鼠
+aboutpikachu - 共濟會👷：比卡超
+aboutditto - 分身🎭：百變怪
+aboutsylveon - 丘比特🏹：仙子伊貝
+aboutcharmander - 獵人🎯：小火龍
+aboutgengar - 連環殺手🔪:耿鬼
+aboutgyarados - 村長🎖:鯉魚龍
+aboutporygon - 狼人巫師🔮:立方獸
+aboutmanaphy - 王子👑：蒼海的王子 瑪納霏
+aboutkadabra - 學徒先知🙇：尤基納
+aboutnatu - 旁觀者👁:天然雀
+aboutspinda - 傻佬🤕:晃晃班
+aboutaegislash - 鐵匠⚒: 堅盾劍怪
+aboutsakaki - 狼人首領⚡️：沙加老大
+aboutchimecho - 風鈴鈴🐶：幼狼
