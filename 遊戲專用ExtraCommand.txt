@@ -1,0 +1,60 @@
+#GameExtra 遊戲專用ExtraCommand
+#29Kri	人地獨角獸，我係29隻角的稀有刺蝟，殺我拎隻角插死你😂
+#3Dmon	立方教授，你又無得做皮嗱？我有喎！(第N次啦)
+#Admin	Admin們唔好死丫
+#admin	請先殺死亂殺Admin的訓練員。
+#Admin2	D admin冇個好人，除了Katherine
+#admin2	邊個殺admin？想死丫？😡
+#admin3	紅唇蛙，仙子伊貝，火箭兵團同耿鬼，你可以俾我安睡第一晚嗎？
+#admin4	請先殺死亂殺Admin的訓練員
+#adminall	我們Admin們又再召集啦😘😘😘
+#adminanson	點解Anson過到first rd？點解冇人fbfv死佢？
+#adminfake	Admin 你呃人！
+#Allen	搵人同我拖佢出去打
+#Allen2	若能耗盡力氣，去捕捉你   亦明如何才可釋放我傷悲
+#AnsonFat	我係肥仔但係我唔想俾人bully😭😭
+#AnsonFat2	唔好見我肥就以為我好恰🙈再FB我就ban哂你地😂
+#chaos	現場混入一片9v的情況，請大家保持隊形
+#charmander	如果我小火龍進化做噴火龍，我一定會燒死哂你哋班衰人
+#Cheong2	我係神一樣的仙子伊貝
+#ckf	點解你唔睇清楚真相才投票
+#daidai	點解小呆呆仲未死？
+#df	做咩離隊，你可以唔可以合群D
+#dieslient	死者不會說話
+#disguise	你咪扮曬野啦, 我已經識穿你既一言一行, 哈哈哈, 你已經呃唔到我架啦
+#DK	仇殺任何人只限這一場，所一下RD，不要有同樣人被FB/FV出現。
+#dp	有我名偵探皮皮出場，火箭兵團，耿鬼都不是我們對手=
+#FB2	制都冇得禁我算啦 仲要FB我🙄
+#fm	follow ME 跟我投！
+#FollowMe	唔好跟我
+#forgiveme	原諒我🙇🙇
+#godieAnson	Anson不能留 請踴躍FB/FV佢👋👋
+#gu	我估佢一定係好人黎
+#heiheiman	我就係鍾意9v， 你吹啊
+#huh	huh我要詛咒你詛咒你huhhh, 得罪我啊嗱👊詛咒你比人連fb3盤輸2盤
+#im	唔好理我，我係沒人要的晃晃班😭😭😭😭
+#JK	已經查明身份，可以殺，可以FB，可以FV。
+#kayu	有邊個想入Kayu教
+#kayu4	可唔可以有神隊友😒😒😒
+#kayugift	螺旋神教幫我送教條俾佢
+#kayusad	我既kayu好唔開心 大家唔好係乜都殺佢唔該哂👋(p.s.明係私心 by Anson🙈)
+#Katherine	本群最靚女又最任性的女admin，（呢個群得我一個女admin，立方獸係立方獸，Kri係小天使，所以得我一個女admin），我係方丈，所以咪fbfv我，如果你敢，我唔知我會做D咩😂😂😂😂😂😂
+#killnew	是誰隊倒新人，同我企出黎！
+#kriheart	有咗尤基納, 我覺得我人生充滿希望, 我覺得自己真係好好好幸福😍😍😍❤️
+#Magikarp	可以俾400粒糖我？
+#Memememe	我要入教，快D接我入教，我係你地需要的人才
+#mouyan	點解冇人拉佢落黎？😭😭😭
+#Oddy	我都叫你唔好四肢發達，頭腦簡單，依加字都唔識多隻投錯票
+#oddy	仙子伊貝你放過我la好冇？
+#rudedyingmessage	遺言必須留 唔留聽口臭 開名正on 9😂😂
+#sad	有咩慘得過被人FB?就係周圍都係仇家然後每次FB😂🙈
+#shieldused	睇下邊個開咗盾
+#SinKid	屌，我唔要同你條gay佬一隊呀
+#slowpoke	保護小呆呆，人人有責😍
+#trustme	你只係小呆呆
+#votehim	唔該同我投死亂投的傻瓜！
+#whyme	點解係我？
+#yank	你呢條友竟然殺我，同我奄佢😏
+#yc	我鍾意姦人，其實我隱藏身份是FBI。
+#yfbmeagain	唉...你個名又長又7 講出黎都嫌口臭 你都係死一死啦👋
+
