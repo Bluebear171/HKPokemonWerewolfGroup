@@ -63,5 +63,6 @@ $surname: 你的姓
 $rules: 群規，系統會私下自動PM你
 
 Example:
-訓練員$name歡迎你黎到呢度，這張是你訓練員的ID:$id。請在開始遊戲前，PM @werewolfbot 和看清楚Pin Message 的內容。願你得到你想要的小精靈😉。遊戲規則可以按[這裡]($rules)
+訓練員$name，呢個係你訓練員ID號碼:$id。
+請在開始遊戲前，PM @werewolfbot 和睇清楚Pin Message 的內容。願你得到你想要的小精靈😉。遊戲規則可以撳[這裡]($rules)
 

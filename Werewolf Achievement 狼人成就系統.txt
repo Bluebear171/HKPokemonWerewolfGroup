@@ -10,8 +10,14 @@ Welcome to the Asylum
 Alzheimer's Patient 
 玩一局失憶版狼人
 
-Explorer
-至少在10個不同的組別玩2次狼人。
+O HAI DER!
+同Para玩一鋪
+
+Spy vs Spy
+不展示身份的玩一局狼人
+
+I have no idea what i am doing
+不展示身份的玩失憶版狼人
 
 Enochlophobia
 玩一局35人場
@@ -28,8 +34,14 @@ Dedicated
 Obsessed
 完成1000場遊戲
 
+Here's Johnny! 
+身為殺手殺掉50人
+
 Masochist
 皮皮勝出
+
+Wobble Wobble
+在10人場裡面成功以酒鬼身份勝出
 
 Inconspicious 
 在多於20人的遊戲裡面，沒有人投票你並且遊戲結束時生還。
@@ -37,14 +49,20 @@ Inconspicious
 Survivalist
 生存100局
 
+Explorer
+至少在10個不同的組別玩2次狼人。
+
+Promiscuous
+身為妓女，5晚以上沒有去同1人的家。
+
 Mason Brother
 成為共濟會會員並生存到最後。
 
+Double Shifter
+連續兩次更改角色(邪教不算)
+
 Hey Man,Nice Shot
 當你這個獵人死亡的時候成功殺死狼/連環殺手。
-
-Here's Johnny! 
-身為殺手殺掉50人
 
 Double Kill
 成為殺手/獵人的故事結束一份子。
@@ -57,6 +75,15 @@ I see a lack of Trust
 
 Change Sides Works
 在遊戲改變角色，並且勝利。
+
+Forbidden lovae 
+作為狼/村情侶勝出（村民死完）
+
+Smart Gunner
+2發子彈都打中殺手，狼或者，邪教。
+
+Even a stopped clock is Right twice a day
+白痴仔兩次看中他人身份
 
 So Close！
 作為皮皮得到大部分的票數。
@@ -78,27 +105,6 @@ OH SHI
 
 Veteran
 完成500場遊戲並且可以加入@werewilfvets
-
-O HAI DER!
-同Para玩一鋪
-
-Wobble Wobble
-在10人場裡面成功以酒鬼身份勝出
-
-Promiscuous
-身為妓女，5晚以上沒有去同1人的家。
-
-Double Shifter
-連續兩次更改角色(邪教不算)
-
-Forbidden lovae 
-作為狼/村情侶勝出（村民死完）
-
-Smart Gunner
-2發子彈都打中殺手，狼或者，邪教。
-
-Even a stopped clock is Right twice a day
-白痴仔兩次看中他人身份
 
 In for the long haul
 在一場遊戲活超過1小時。
