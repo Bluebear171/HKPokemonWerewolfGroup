@@ -49,7 +49,7 @@
     </string>
     <string key="BannedForExploit">
         <!-- 0 - Player name -->
-        <value>【{0}】企圖利用漏洞破壞比賽進行，已被係統封鎖（你個名唔可以有『/』）。</value>
+        <value>【{0}】企圖利用漏洞破壞比賽進行，已被系統封鎖（你個名唔可以有『/』）。</value>
     </string>
     <string key="ChangeNameToJoin">
         <!-- 0 - Player name -->
