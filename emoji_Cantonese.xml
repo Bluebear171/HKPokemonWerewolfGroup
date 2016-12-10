@@ -5,12 +5,12 @@
         <value>👇❌🎮❗️</value>
     </string>
     <string key="PlayerStartedGame" isgif="true">
-        <value>{0} 🆕🎮❗️/join 👇🎮</value>
-        <value>{0} 🆕🎮❗️/join 👇🍝</value>
+        <value>{0} 🆕🎮❗️ /join 👇🎮</value>
+        <value>{0} 🆕🎮❗️ /join 👇🍝</value>
     </string>
     <string key="PlayerStartedChaosGame" isgif="true">
-        <value>{0} 🆕🌘🎮❗️/join 👇🎮</value>
-        <value>{0} 🆕🌘🎮❗️/join 👇🍝</value>
+        <value>{0} 🆕🌘🎮❗️ /join 👇🎮</value>
+        <value>{0} 🆕🌘🎮❗️ /join 👇🍝</value>
     </string>
     <string key="NoJoinGameRunning">
         <value>👇❌🎮❗️🎮🔛❗️/nextgame 👇📢🆕🎮❗️</value>
