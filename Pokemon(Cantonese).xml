@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--
     ==UPDATE LOG==
-    LAST UPDATE 6/12/2016 by @bluebear119
-    14/12  : Modify Harlot Description
+    LAST UPDATE 31/12/2016 by @bluebear119
+    31/12  :Add new string for 1vs1
+    14/12  :Modify Harlot Description
     06/12  ：Add a bunch of Death String(SK,eaten)
     30/11  :Modify Role Info Sk，Starting Game Wait,Event Details
     25/11  :Modify Role Info App Seer and Seer.
@@ -20,11 +21,11 @@
     </string>
     <string key="PlayerStartedGame" isgif="true">
         <!-- 0 - Player name -->
-        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大賽，各地嘅訓練員們仲唔快啲同自己心愛嘅小精靈一齊作戰？(利申：有火箭兵團等壞人入侵，本會恕不負責)\n\n快啲撳 /join 報名參加，一決高下啦！\n\n活動：在每日限時活動中取得最高分，做到萬年蟲有三分，菊石獸有兩分，其他一分。\n日期：2016年12月1日-2016年12月31日(每日晚上8點半9點半)\n想知詳情睇pin。</value>
+        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大賽，各地嘅訓練員們仲唔快啲同自己心愛嘅小精靈一齊作戰？(利申：有火箭兵團等壞人入侵，本會恕不負責)\n\n快啲撳 /join 報名參加，一決高下啦！\n\n</value>
     </string>
     <string key="PlayerStartedChaosGame" isgif="true">
         <!-- 0 - Player name -->
-        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大亂鬥，各地嘅訓練員們仲唔快啲帶埋小精靈加入戰陣？(利申：今次角色身份難以估計，正邪難分，本會都唔知點負責)\n \n快啲撳 /join 報名參加，打到七彩啦！\n\n活動：在每日限時活動中取得最高分，做到萬年蟲有三分，菊石獸有兩分，其他一分。\n日期：2016年12月1日-2016年12月31日(每日晚上8點半9點半)\n想知詳情睇pin。</value>
+        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大亂鬥，各地嘅訓練員們仲唔快啲帶埋小精靈加入戰陣？(利申：今次角色身份難以估計，正邪難分，本會都唔知點負責)\n \n快啲撳 /join 報名參加，打到七彩啦！\n\n</value>
     </string>
     <string key="NoJoinGameRunning">
         <value>有無搞錯呀？有卡洛斯地區冠軍卡露乃嘅指導，都要遲到，我決定取消你既比賽資格，仲唔彈番去你既觀眾席。</value>
@@ -1363,5 +1364,50 @@
   </string>
   <string key="GAGuardedWolf">
     <value>【{0}】嘅幸福蛋被責任心沖昏咗佢個腦，走去守火箭兵團。於是，火箭兵團順理成章，大發慈悲就收服咗幸福蛋。為咗讓訓練員知道係佢地做嘅，竟然公然留下幸福蛋的蛋在廣場噴水池中間的雕像上，蛋上有個好明顯嘅R字，代表著火箭兵團就系做呢件事情嘅人。</value>
+  </string>
+    <!--DEC 26: 1vs1 finales-->
+  <string key="HunterKillsWolfEnd">
+    <!--{0} = hunter's name, {1} = wolf's name-->
+    <value>雖然火箭兵團成員【{1}】搵到了在鯉魚村最後生存嘅小精靈，小火龍。不過【{0}】嘅小火龍唔比佢地有機會使用大師球，一個飛身對準火箭兵團使出煉獄，這何等猛烈的熊熊烈焰包圍住【{1}】，令其無法逃出生天。唔到一分鐘，【{1}】已經被猛火燒到變成灰了。條村唔會再有火箭兵團，訓練師們可以開個party,慶祝一下啦！
+    </value>
+  </string>
+  <string key="WolfKillsHunterEnd">
+    <!--{0} = hunter's name, {1} = wolf's name-->
+    <value>火箭兵團成員【{1}】在經歷了一番波折之後搵到了在鯉魚村最後生存嘅小精靈，小火龍。面對着火箭兵團的襲擊，【{0}】嘅小火龍當然不肯乖乖就範，它使出了龍爪嘗試破壞掉火箭兵團的大師球，可惜，大師球的耐久度已經被立方獸精心改良了。只見大師球硬生生的正面承受了小火龍龍爪後，再以詭異的軌跡擊中了小火龍。小火龍無法掙脫出大師球，又一次火箭兵團收服咗成村嘅小精靈。😈火箭兵團贏咗！😈</value>
+  </string>
+  <string key="CHKillsCultistEnd">
+    <!--{0} = last cultist's name, {1} = CH's name -->
+    <value>【{1}】嘅萬年蟲係條村的地下室見到一個螺旋神教的教徒在跪拜神奇的海螺。忽然地下室亮起了強光，只見萬年蟲的化石光線充斥著成間地下室，無路可逃的菊石獸直接變咗一堆碎片。訓練師【{1}】也在附近找到了所有螺旋神教教徒的名單，得知【{0}】原來係螺旋神教的最後希望。現在連【{0}】都死埋，就再也沒有任何螺旋神教可以威脅到鯉魚村的安寧了，訓練師們獲勝。</value>
+  </string>
+    <!-- Extend time -->
+  <string key="SecondsAdded">
+    <!-- 0 - Seconds added by /extend command -->
+    <!-- 1 - Total seconds remaining -->
+    <value>等待時間已經被延長了【{0} 】秒!\n 現在等待的時間還剩下【{1}】秒，快D /join 參加比賽啦！</value>
+  </string>
+  <string key="SecondsRemoved">
+    <!-- 0 - Seconds removed by /extend command -->
+    <!-- 1 - Total seconds remaining -->
+     <value>等待時間已經被減少了【{0} 】秒!\n 現在等待的時間還剩下【{1}】秒，快D /join 參加比賽啦！</value>
+  </string>
+  <string key="CantExtend">
+    <value>只有Admin才能延長或減少遊戲等待開始的時間。</value>
+  </string>
+  <string key="AllowExtendQ">
+    <!--{0} = "Allow" / "Disallow" string-->
+    <value>你是否允許玩家延長遊戲等待時間？\n現在:【{0}】延長\n</value>
+  </string>
+  <string key="AllowExtendA">
+    <!--{0} = "Allow" / "Disallow" string-->
+    <value>【{0}】玩家延長遊戲等待時間</value>
+  </string>
+  <string key="MaxExtendQ">
+    <value>請選擇你要的最大延長時間。\n原本設定時間: {0}\n現在:{1}</value>
+  </string>
+  <string key="MaxExtendA">
+    <value>最大的延長時間被設定為【{0}】秒</value>
+  </string>
+  <string key="WolvesEatDrunkBlockSecondKill">
+    <value>【{0}】被熱情如火包到實晒的你，成個人已經冇曬力氣，攤係張床度直接訓到天光，無法出門去抓【{1}】的小精靈。</value>
   </string>
 </strings>
