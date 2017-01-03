@@ -21,11 +21,11 @@
     </string>
     <string key="PlayerStartedGame" isgif="true">
         <!-- 0 - Player name -->
-        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大賽，各地嘅訓練員們仲唔快啲同自己心愛嘅小精靈一齊作戰？(利申：有火箭兵團等壞人入侵，本會恕不負責)\n\n快啲撳 /join 報名參加，一決高下啦！\n\n</value>
+        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大賽，各地嘅訓練員們仲唔快啲同自己心愛嘅小精靈一齊作戰？(利申：有火箭兵團等壞人入侵，本會恕不負責)\n\n快啲撳 /join 報名參加，一決高下啦！\n\n活動：儲齊8個徽章 打聯盟賽 \n日期：2017年1月1日-2017年1月31日</value>
     </string>
     <string key="PlayerStartedChaosGame" isgif="true">
         <!-- 0 - Player name -->
-        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大亂鬥，各地嘅訓練員們仲唔快啲帶埋小精靈加入戰陣？(利申：今次角色身份難以估計，正邪難分，本會都唔知點負責)\n \n快啲撳 /join 報名參加，打到七彩啦！\n\n</value>
+        <value>【{0}】喺鯉魚門村開始咗一場寵物小精靈大亂鬥，各地嘅訓練員們仲唔快啲帶埋小精靈加入戰陣？(利申：今次角色身份難以估計，正邪難分，本會都唔知點負責)\n \n快啲撳 /join 報名參加，打到七彩啦！\n\n活動：儲齊8個徽章 打聯盟賽 \n日期：2017年1月1日-2017年1月31日</value>
     </string>
     <string key="NoJoinGameRunning">
         <value>有無搞錯呀？有卡洛斯地區冠軍卡露乃嘅指導，都要遲到，我決定取消你既比賽資格，仲唔彈番去你既觀眾席。</value>
@@ -1402,12 +1402,12 @@
     <value>【{0}】玩家延長遊戲等待時間</value>
   </string>
   <string key="MaxExtendQ">
-    <value>請選擇你要的最大延長時間。\n原本設定時間: {0}\n現在:{1}</value>
+    <value>請選擇你要的最大延長時間。\n原本設定時間: {0}\n現在設定是:{1}</value>
   </string>
   <string key="MaxExtendA">
     <value>最大的延長時間被設定為【{0}】秒</value>
   </string>
   <string key="WolvesEatDrunkBlockSecondKill">
-    <value>【{0}】被熱情如火包到實晒的你，成個人已經冇曬力氣，攤係張床度直接訓到天光，無法出門去抓【{1}】的小精靈。</value>
+    <value>你被熱情如火的【{0}】包到實晒，成個人已經冇曬力氣，攤係張床度直接訓到天光，無法出門去抓【{1}】的小精靈。</value>
   </string>
 </strings>
