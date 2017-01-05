@@ -66,3 +66,5 @@ Example:
 訓練員$name，呢個係你訓練員ID號碼:$id。
 請在開始遊戲前，PM @werewolfbot 和睇清楚Pin Message 的內容。願你得到你想要的小精靈😉。遊戲規則可以撳[這裡]($rules)
 
+3.0 Extend時間指令
+

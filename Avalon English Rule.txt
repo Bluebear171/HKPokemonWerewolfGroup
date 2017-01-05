@@ -1,0 +1,35 @@
+The avalon game is a game about deduction and bluffing
+
+This game tells the story about a group that is in a journey to control the civilization of Arthur. There are always 5 quests in total. The players will play the first quest first, then sequentially go to the next quest. If at least 3 quests succeed, then good forces might win. If there are 3 quests fail, evil force win.
+
+At the start of the game, each player will be randomly assigned a role secretly.
+Click to see the detail of the role:
+🙂/merlin
+🙂/percival
+🙂/servant
+😈/assassin
+😈/morgana
+😈/mordred
+😈/oberon
+
+Addition roles exclusive for telegram:
+🙂/knight
+🙂/agent
+🙂/auditor
+😈/morgassassin
+😈/witch
+😈/ninja
+
+At the start of the game, King token👑 will be randomly assigned to a player and the King may choose who can complete the current quest.
+After the king has done the assignment, any player may vote approve or reject to the assignment. Then, the approve and reject will be counted.
+
+If the reject count is half or more the count of the players, then the quest is rejected, and the king token👑 will be given to the next player (next to the King)
+If the approve count is more than half players' count, then the quest is executed by the assignees.
+
+When executing a quest, evil players may choose to fail the quest and this will be done secretly. In general, if at least 1 player give the FAIL to that quest, it means that quest will FAIL.
+
+And to prevent each quest being rejected over and over, each quest has maximum reject of 5. If the quest is rejected 5 times, it will automatically FAIL
+
+In a game 8 players or more, lady of the lake👩 can be used. Lady of The Lake will give a large benefit for a good forces.. A player who hold the lady token may choose a player to know his/her true identity (good or evil) but only the lady holder knows the truth.
+
+That's all. Practice is the faster way to learn.. Type /start or /startchaos to start the game.
