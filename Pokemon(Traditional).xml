@@ -14,7 +14,7 @@
     13/11  :Modify Tanner Description and Tanner Win.
 -->
 <strings>
-    <language name="繁體字（神奇寶貝寶可夢版）" base="繁體字" variant="神奇寶貝寶可夢版" owner="bluebear119"/>
+    <language name="正體中文（神奇寶貝寶可夢版）" base="正體中文" variant="神奇寶貝寶可夢版" owner="bluebear119"/>
     <string key="NotInGame">
         <value>訓練員，你根本就沒有參加到寵物小精靈聯盟大賽...</value>
     </string>
